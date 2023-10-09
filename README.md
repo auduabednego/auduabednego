@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ai Engineering Enthusiast
 -------------------------
 
-I am an Ai Engineering Enthusiats who loves Machine learning
+I am a DevOps Engineer who loves Automating 
 
-* 🌍  I'm based in Abuja Nigeria
-* ✉️  You can contact me at [abednego.audu0@gmail.com](mailto:abednego.audu0@gmail.com )
+* 🌍  I'm based in Derby United Kingdom 
+* ✉️  You can contact me at [abednego.audu01@gmail.com](mailto:abednego.audu0@gmail.com )
 * 🧠  I'm learning TensorFlow
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am superman, I Will Go Tell Everyone
